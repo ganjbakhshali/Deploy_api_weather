@@ -1,5 +1,5 @@
-# Deploy_api_weather-
-testing weather api
+# Deploy_api_weather
+testing weather api deployment
 
 ## using pyside6 and get method in API to obtain weather details 
 
